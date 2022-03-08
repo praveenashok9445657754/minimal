@@ -1,6 +1,8 @@
-title: Minimal theme
+title: Praveen Kumar A
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: This POC is for capturing the trends of data processed for the day and to get the completion status of
+the job. This monitoring was done manually before, but after this POC it was automated and helps in
+fine tuning the spark job.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
